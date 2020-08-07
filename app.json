@@ -1,0 +1,19 @@
+{
+   "pages": [
+      "pages/index/index",
+      "pages/ptindex/ptindex",
+      "pages/pingtu/pingtu",
+      "pages/boxIndex/boxIndex",
+      "pages/boxGame/boxGame",
+      "pages/snakeIndex/snakeIndex",
+      "pages/snakeGame/snakeGame",
+      "pages/logs/logs"
+   ],
+   "window": {
+      "backgroundTextStyle": "light",
+      "navigationBarBackgroundColor": "#fff",
+      "navigationBarTitleText": "WeChat",
+      "navigationBarTextStyle": "black"
+   },
+   "sitemapLocation": "sitemap.json"
+}

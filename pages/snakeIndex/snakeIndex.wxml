@@ -1,0 +1,4 @@
+<view class="container">
+	<image src="../../images/snakegame/snake01.png" bindtap="goToGame" data-level="easy"></image>
+	<image src="../../images/snakegame/snake02.png" bindtap="goToGame" data-level="hard"></image>
+</view>

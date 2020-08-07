@@ -1,0 +1,6 @@
+<view class="container">
+	<view class="title">游戏目录</view>
+	<button type="primary" bindtap="goTo" data-id="ptindex">拼图游戏</button>
+	<button type="primary" bindtap="goTo" data-id="boxIndex">推箱子游戏</button>
+	<button type="primary" bindtap="goTo" data-id="snakeIndex">贪吃蛇游戏</button>
+</view>
